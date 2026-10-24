@@ -275,31 +275,6 @@ We want to be clear about what this prototype is and is not.
 
 ---
 
-## 14. Roadmap
-
-**Now (hackathon submission)**
-
-- Working escrow and atomic swap on Sepolia
-- Web app with wallet connection, order book, fill and cancel
-- Public proof on Etherscan
-
-**Next (weeks)**
-
-- Verify the contract source on Etherscan
-- Partial fills
-- A transparent protocol fee written in the contract
-- Automated tests with Foundry or Hardhat
-- Better order book: sorting by rate and filtering by token pair
-
-**Later (months)**
-
-- Independent security audit
-- A lending pool as a second market
-- Deployment to a low-cost chain such as Base or Arbitrum for a pilot
-- Real stablecoins in place of mock tokens
-- Legal and compliance review before any real-money launch
-
----
 
 
 
