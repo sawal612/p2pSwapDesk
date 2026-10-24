@@ -303,19 +303,3 @@ We want to be clear about what this prototype is and is not.
 
 
 
-Use sections 1 to 15 as the source. Skip both appendices, and keep each slide to one idea.
-
-1. **Title:** P2P Swap Desk, with the one-line pitch and team name
-2. **The problem:** the four pain points table (section 2)
-3. **PS 02 in one line:** the requirement quote
-4. **Our solution:** the four-step flow and key properties (section 3)
-5. **How a trade works:** the flow diagram (section 4)
-6. **Live on Sepolia:** contract addresses and Etherscan proof (section 5)
-7. **Architecture:** the three-layer diagram and principles (section 6)
-8. **Smart contract:** functions and events (section 8)
-9. **The web app:** feature list and a screenshot (section 9)
-10. **Demo:** screenshots of the swap before and after (section 15)
-11. **Fit with PS 02:** the requirement table and the honest notes (section 11)
-12. **Limitations and risks:** the table (section 13)
-13. **Roadmap:** now, next, later (section 14)
-14. **Closing:** the one-line pitch and the ask
